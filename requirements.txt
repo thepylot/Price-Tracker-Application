@@ -1,0 +1,3 @@
+django
+beautifulsoup4
+Celery
